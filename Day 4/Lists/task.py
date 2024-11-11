@@ -11,3 +11,6 @@ states_of_america.append = "JoshTown"
 # .append alters a variable/list without fully changing it, so this will add JoshTown to the end of the list
 
 states_of_america.extend(["Joshie", "Kochanie"])
+
+
+#Demonstrates lists

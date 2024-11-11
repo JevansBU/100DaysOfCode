@@ -7,7 +7,8 @@ Total = float((bill / people) * trueTip)
 float(Total)
 Total_Amount = round(Total, 2)
 print(f"Each person should pay = £{Total_Amount}")
-
+#Day 2 Project Complete!!!!
+#Created a tip calculator depending on how may people there are eating
 
 
 

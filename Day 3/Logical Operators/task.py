@@ -26,3 +26,5 @@ if height >= 120:
 
 else:
     print("Sorry, you have to grow taller before you can ride.")
+
+#Created a piece of code that asks your age and then calculates how much you have to pay for the tickets based on your age

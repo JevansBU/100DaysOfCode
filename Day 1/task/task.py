@@ -7,3 +7,4 @@ Pet = input("What is the name of a pet?")
 print("Great!!! Your Band name could be " + City + " " + Pet + "!")
 
 #Day 1 Project COMPLETE!!
+#Generates a Band name based on your inputs

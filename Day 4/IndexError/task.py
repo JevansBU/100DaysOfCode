@@ -8,3 +8,5 @@ states_of_america = ["Delaware", "Pennsylvania", "New Jersey", "Georgia", "Conne
 
 print(states_of_america)
 print(len(states_of_america))
+
+#Demonstrates a list and using the len() function
